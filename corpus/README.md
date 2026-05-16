@@ -18,4 +18,5 @@ raw/明实录神宗实录.txt
 raw/明实录穆宗实录.txt
 raw/明实录英宗实录.txt
 raw/明实录闽海关系史料.txt
+raw/明史.txt
 ```
